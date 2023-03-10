@@ -46,4 +46,4 @@ print(response1)
 
 Go back to the AWS S3 ，Check that the upload is successful to the <font color=#FF0000>specified Bucket</font> .
 
-![[upload success.png]]
+![[upload success.png]](https://github.com/JimmyLi000/python-s3/blob/main/upload_file()/upload.png)
