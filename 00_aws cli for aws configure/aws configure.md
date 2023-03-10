@@ -36,6 +36,4 @@ Default region name [None] : <font color="#f00">us-east-1</font>
 <br>
 Default output format [None] : <font color="#f00"> json</font>
 
-![[Pasted image 20230309081220.png]]
-
-
+![[Pasted image 20230309081220.png]](https://github.com/JimmyLi000/python-s3/blob/main/00_aws%20cli%20for%20aws%20configure/Pasted%20image%2020230309081220.png)
