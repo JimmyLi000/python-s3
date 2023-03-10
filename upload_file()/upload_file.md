@@ -1,8 +1,4 @@
-
-[create_bucket()](#create_bucket())
-[deploy success](#deploy success)
-
-# aws configure()
+# aws configure
 First set aws configure，Please refer to the article：
 
 https://github.com/JimmyLi000/python-s3/blob/main/00_aws%20cli%20for%20aws%20configure/aws%20configure.md
