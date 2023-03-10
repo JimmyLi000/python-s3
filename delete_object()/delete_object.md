@@ -43,10 +43,10 @@ print(response)                       #show result
 
 Go back to the AWS S3 ，Check bucket ，will delete test.txt .
 
-![[object.png]]
+![[object.png]](https://github.com/JimmyLi000/python-s3/blob/main/delete_object()/1.png)
 
 <div><br></div>
 
 Delete object through python
 
-![[delete object.png]]
+![[delete object.png]](https://github.com/JimmyLi000/python-s3/blob/main/delete_object()/2.png)
