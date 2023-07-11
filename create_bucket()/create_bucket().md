@@ -61,4 +61,4 @@ ClientError: An error occurred (InvalidLocationConstraint) when calling the Crea
 
 回到AWS S3頁面，看到創建成功Bucket
 
-![[create.png]]
+![[create.png]](https://github.com/JimmyLi000/python-s3/blob/main/create_bucket()/create.png)
